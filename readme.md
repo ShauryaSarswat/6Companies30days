@@ -10,6 +10,7 @@ Rules to the contest are :
 
 <b> Challenge Company 1 : Microsoft </b>
 
-[]()
+[Microsoft Solutions](https://github.com/ShauryaSarswat/6Companies30days/tree/main/Microsoft)
 
+- [You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.](https://github.com/ShauryaSarswat/6Companies30days/tree/main/Microsoft/solution1)
 
