@@ -13,4 +13,7 @@ Rules to the contest are :
 [Microsoft Solutions](https://github.com/ShauryaSarswat/6Companies30days/tree/main/Microsoft)
 
 - [You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.](https://github.com/ShauryaSarswat/6Companies30days/tree/main/Microsoft/solution1)
+- [Combination Sum with a twist.](https://github.com/ShauryaSarswat/6Companies30days/tree/main/Microsoft/solution2)
+- [You are given an integer array nums of length n. Return maximum length of Rotation Function.](https://github.com/ShauryaSarswat/6Companies30days/tree/main/Microsoft/solution4)
+- [Largest Divisible Subset.](https://github.com/ShauryaSarswat/6Companies30days/tree/main/Microsoft/solution5)
 
