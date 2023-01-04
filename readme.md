@@ -8,7 +8,7 @@ Rules to the contest are :
 - The questions provided will be on a gap of 5 days for a new company i.e from 1st to 5th Jan,6th to 10th Jan and so on.
 - Completing questions in these 5 days can be in any format - 3 questions a day or     maybe 6 questions a day.
 
-<b> Challenge Company 1 : Microsoft </b>
+<b> Challenge Company 1 : [Microsoft](https://github.com/ShauryaSarswat/6Companies30days/tree/main/Microsoft) </b>
 
 [Microsoft Solutions](https://github.com/ShauryaSarswat/6Companies30days/tree/main/Microsoft)
 
